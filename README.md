@@ -9,7 +9,7 @@ Roll-A-Ball is a two player game, where each player controls its ball with keybo
 |       | Player 1 Controls	| Player 2 Controls |
 | Left	|         A         |    Left Arrow     |
 | Right	|         D       	|    Right Arrow    |
-| Up	|         W        	|     Up Arrow      |
+| Up	  |         W        	|     Up Arrow      |
 | Down	|         S        	|    Down Arrow     |
 | Jump	|     Right Ctrl    |     Page Up       |
 |-----------------------------------------------|
