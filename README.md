@@ -5,7 +5,7 @@ In my first encounter with Unity Development, I created a simple rolling ball ga
 
 Roll-A-Ball is a two player game, where each player controls its ball with keyboard. Following is the list of control:
 
-<table>
+<table align="center">
 <tbody>
 <tr>
 <th style="text-align:center;" width="10px"></th>
